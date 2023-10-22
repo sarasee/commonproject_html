@@ -35,10 +35,10 @@ li a {
 }
 
 li a:hover {
-    background-color: pink;
+    background-color: #301282;
 }
 .current {
-    border: solid pink 3px;
+    border: #301282 3px;
     border-radius: 5px;
     padding: 2px;
 }
@@ -69,50 +69,50 @@ header {
     grid-column: 1/-1;
 }
 h1 {
-    color: pink;
+    color: #301282;
     font-size: 30px;
     text-align: center;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 h2 {
-    color: pink;
+    color: #301282;
     font-size: 30px;
     text-align: center;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 h3 {
-    color: pink;
+    color: #301282;
     font-size: 30px;
     text-align: center;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 body {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    color: pink;
+    color: #301282;
 }
 main {
     padding: 25px;
 }
 p {
     text-align: center;
-    color: black;
+    color: #301282;
 }
 .likes{
     text-align: center;
     align-items: center;
-    color: black;
+    color: #301282;
 }
 figcaption{
     text-align: center;
-    color: black;
+    color: #301282;
 }
 .steps{
     text-align: center;
-    color: black;
+    color: #301282;
 }
 .ingredients{
     text-align: center;
-    color: black;
+    color: #301282;
 }
 img {
     max-width: 100%;
