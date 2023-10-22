@@ -28,7 +28,7 @@ li {
 
 li a {
     display: block;
-    color: #333;
+    color: black;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
@@ -38,12 +38,12 @@ li a:hover {
     background-color: #301282;
 }
 .current {
-    border: #301282 3px;
+    border: solid lightblue 3px;
     border-radius: 5px;
     padding: 2px;
 }
 header {
-    background-color: #123;
+    background-color: #301282;
     animation: 
     color: white;
     padding: 20px;
@@ -69,7 +69,7 @@ header {
     grid-column: 1/-1;
 }
 h1 {
-    color: #301282;
+    color: lightblue;
     font-size: 30px;
     text-align: center;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
@@ -88,7 +88,7 @@ h3 {
 }
 body {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    color: #301282;
+    color: pink;
 }
 main {
     padding: 25px;
