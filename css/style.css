@@ -149,10 +149,3 @@ img {
     animation-name: slideIn;
     animation-duration: 1s;
   }
-.head {
-    transition: transform 1s ease;
-  }
-  
-  .head:hover {
-    transform: scale(1.2);
-  }
